@@ -7,6 +7,7 @@ Challenge 13 : This Challenge, we'll use what we've learned in this module to de
   - [Project Requirements](#project-requirements)
   - [Project Description](#project-description)
   - [Installation](#installation)
+  - [Deployment](#deployment)
   - [Usage](#usage)
   - [Image Links of this Project:](#image-links-of-this-project)
   - [Video Links of this Project:](#video-links-of-this-project)
@@ -58,14 +59,26 @@ Each of the following components must follow these guidelines:
   * Lastly in the footer are links to my Github, LinkedIn, and Twitter.
 
 
- ## Installation 
+## Installation
 
 1. Clone the repository from GitHub
-1. Install `node.js`
-1. Run `npm install` to install dependencies. 
-1. Run `npm start` to start the web server and connect
+2. Install `node.js`
+3. Run `npm install` to install dependencies. 
+4. Run `npm start` to start the web server and connect
 
-## Usage 
+## Deployment
+
+1. Create an empty repository on GitHub
+2. Create a React app `create-react-app react-portfolio`
+3. Install the gh-pages npm package `npm install gh-pages --save-dev`
+4. Add a homepage property to the package.json file
+5. Add deployment scripts to the package.json file
+6. Add a "remote" that points to the GitHub repository
+7. Push the React app to the GitHub repository `npm run deploy`
+8. Configure GitHub Pages
+9. (Optional) Store the React app's source code on GitHub
+
+## Usage
 
 To create a portfolio, using React Technology. The user can review in this portfolio, About Me section see my image and some more information about me, a sample Portfolio and can see my work, a contact form and can contact me, and be able to download the Resume by download resume page.
 
