@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React_Portfolio/static/css/main.d843ed36.css",
+    "main.js": "/React_Portfolio/static/js/main.871dfc94.js",
+    "static/js/787.602dc551.chunk.js": "/React_Portfolio/static/js/787.602dc551.chunk.js",
+    "static/media/Recipe_Movie.png": "/React_Portfolio/static/media/Recipe_Movie.6df7ea621f57752e0474.png",
+    "static/media/Bootstrap_Portfolio.png": "/React_Portfolio/static/media/Bootstrap_Portfolio.002f62a611ea81c77df8.png",
+    "static/media/Weather_Dash.png": "/React_Portfolio/static/media/Weather_Dash.0da40c3ce86b87b47f38.png",
+    "static/media/TeamProfile_Generator.png": "/React_Portfolio/static/media/TeamProfile_Generator.ddf097bda4d9949a2f4d.png",
+    "static/media/Farha_Resume.pdf": "/React_Portfolio/static/media/Farha_Resume.f8be222d8d8cc8bd2c6f.pdf",
+    "static/media/WorkDay_Scheduler.png": "/React_Portfolio/static/media/WorkDay_Scheduler.ea790d17712bc756e899.png",
+    "static/media/profile.webp": "/React_Portfolio/static/media/profile.a5ea56239556ba75c6a9.webp",
+    "static/media/farha.jpeg": "/React_Portfolio/static/media/farha.1aedf85c234d333e189c.jpeg",
+    "index.html": "/React_Portfolio/index.html",
+    "main.d843ed36.css.map": "/React_Portfolio/static/css/main.d843ed36.css.map",
+    "main.871dfc94.js.map": "/React_Portfolio/static/js/main.871dfc94.js.map",
+    "787.602dc551.chunk.js.map": "/React_Portfolio/static/js/787.602dc551.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d843ed36.css",
+    "static/js/main.871dfc94.js"
+  ]
+}
