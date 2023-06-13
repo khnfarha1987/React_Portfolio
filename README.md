@@ -76,6 +76,7 @@ To create a portfolio, using React Technology. The user can review in this portf
 
 
 ## Application GitHub URL:
-
+[README Generator GitHub Link](https://github.com/khnfarha1987/React_Portfolio)
 
 ## Application Deployed live URL:
+[README Generator Deployed Link](https://khnfarha1987.github.io/React_Portfolio/)
