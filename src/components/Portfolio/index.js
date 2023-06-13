@@ -4,6 +4,7 @@ import workDaySchedulerImage from "../../assets/images/WorkDay_Scheduler.png";
 import teamProfileGeneratorImage from "../../assets/images/TeamProfile_Generator.png";
 import recipemovieImage from "../../assets/images/Recipe_Movie.png";
 import bootstrapPortfolioImage from "../../assets/images/Bootstrap_Portfolio.png";
+import codeQuizImage from "../../assets/images/Code_Quiz.png";
 
 function Portfolio() {
   return (
@@ -125,6 +126,27 @@ function Portfolio() {
           </div>
         </div>
 
+        <div className="job">
+          <div className="job-info">
+            <div className="job-img">
+              <a href="https://khnfarha1987.github.io/Web-API-Project-Code-Quiz/">
+                {" "}
+                <img
+                  src={codeQuizImage}
+                  className="my-2"
+                  style={{ width: "100%" }}
+                  alt="Code_Quiz"
+                />
+              </a>
+            </div>
+            <div className="job-text">
+              <h4>Code Quiz</h4>
+              <p>
+                This application create a timed, multiple-choice coding quiz that can keep track of high scores and quiz-takers' initials. Coding quiz showing question with multiple anwers. If we select right answer than score will +10 and if we will give wrong answer then timer will be -10second reduce.{" "}
+              </p>
+            </div>
+          </div>
+        </div>
       </section>
     </div>
   );
