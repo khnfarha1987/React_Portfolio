@@ -19,7 +19,7 @@ function About() {
             Currently I am Bootcamp student of University of Birmingham.
             I moved in United Kingdom in June 2019. I am working in Hospitality
             in IHG Crimson Hotel 'Crown Plaza'. I am mother of two lovely kids,
-            I like to spend time with my family. I learned a lot frontend technologies from this Bootcamp course such as HTML, CSS, JavaScript, Node and react in this Bootcamp Course. I am hoping to put this newly-learned skill to good use and land a promising new career as a web developer.
+            I like to spend time with my family. I learned a lot frontend technologies from this Bootcamp course such as HTML, CSS, JavaScript, Node and React in this Bootcamp Course. I am hoping to put this newly-learned skill to good use and land a promising new career as a web developer.
 
           </p>
         </div>
