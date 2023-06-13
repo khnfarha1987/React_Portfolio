@@ -9,7 +9,7 @@ Challenge 13 : This Challenge, we'll use what we've learned in this module to de
   - [Installation](#installation)
   - [Usage](#usage)
   - [Image Links of this Project:](#image-links-of-this-project)
-  - [Video Link of this Project:](#video-link-of-this-project)
+  - [Video Links of this Project:](#video-links-of-this-project)
   - [Application GitHub URL:](#application-github-url)
   - [Application Deployed live URL:](#application-deployed-live-url)
 
@@ -80,7 +80,10 @@ To create a portfolio, using React Technology. The user can review in this portf
 
 ![alt](./src/assets/project/img-5.png)
 
-## Video Link of this Project:
+## Video Links of this Project:
+![alt](./src/assets/project/video1.gif)
+
+![alt](./src/assets/project/video2.gif)
 
 
 ## Application GitHub URL:
